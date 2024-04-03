@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 section {
+  /* margin: 0; */
   padding: 71px 0 103px;
   text-align: center;
   font-family: Montserrat, sans-serif;
